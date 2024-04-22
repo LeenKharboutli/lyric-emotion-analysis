@@ -1,2 +1,5 @@
 # ignore all files under raw_data
 raw_data/
+
+# ignore token file
+user_token.yaml
