@@ -1,1 +1,9 @@
 lyricsgenius
+nltk
+
+
+# Based on https://www.nlplanet.org/course-practical-nlp/02-practical-nlp-first-tasks/08-emotion-classification
+transformers
+datasets
+plotly
+torch
