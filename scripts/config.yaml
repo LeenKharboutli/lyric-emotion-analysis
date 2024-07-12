@@ -1,0 +1,9 @@
+dataset_folder_path: ./raw_data/twitter_emotion/
+model: distilbert-base-uncased
+num_labels: 6 
+batch_size: 64
+model_save_path: ./distelbert-for-emotion-classification
+
+label_encoder_path: label_encoder.pkl
+raw_lyrics_dataset_path: ./lyrics_text.csv
+predicted_lyrics_classification_dataset_path: lyrics_with_emotion_preds_exp.csv

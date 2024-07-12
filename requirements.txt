@@ -1,9 +1,11 @@
-lyricsgenius
-nltk
-
-
-# Based on https://www.nlplanet.org/course-practical-nlp/02-practical-nlp-first-tasks/08-emotion-classification
+pyyaml
+numpy 
+pandas 
+matplotlib 
+plotly
+scikit-learn
+xgboost
 transformers
 datasets
-plotly
-torch
+umap-learn
+tensorflow
