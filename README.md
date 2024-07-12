@@ -1,5 +1,9 @@
 # Performing analysis on lyric data combined with DistilBERT's emotion classification
 
+![Graph visualization of analysis results](analysis_results.png)
+
+To view a visualization of the results in Tableau Public, visit this [link](https://public.tableau.com/views/TrendsinPercentageShareofEachofSixEmotionsDetectedinSongLyricsPerReleaseDateGroupedbyYear1950-2019/PercentageShareofEachEmotionOverTime?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+
 ## Project Overview 
 
 The dataset used in this project is the "Music Dataset: Lyrics and Metadata from 1950 to 2019" by Moura et al. (2020), which consists of music lyrics and metadata on those lyrics spanning nearly seven decades.
