@@ -29,7 +29,7 @@ To fine-tune:
 
 `python scripts/train.py`
 
-To run the classifier:
+To run the fine-tuned classifier:
 
 `python scripts/classify.py`
 
