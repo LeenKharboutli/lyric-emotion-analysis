@@ -23,7 +23,15 @@ This project uses Python 3.11 for all the code, and both datasets used are liste
 
 to download all required packages. 
 
-The fastest way to fine-tune the DistilBERT model is to run the train.py script and the fastest way to use the DistilBERT model to make classifications on the lyrics dataset is to run the classify.py script. Make sure to first modify config.yaml before using either script to ensure correct filepaths are used. 
+The fastest way to fine-tune the DistilBERT model is to run the `train.py` script and the fastest way to use the DistilBERT model to make classifications on the lyrics dataset is to run the `classify.py` script. Make sure to first modify config.yaml before using either script to ensure correct filepaths are used. 
+
+To fine-tune:
+
+`python scripts/train.py`
+
+To run the classifier:
+
+`python scripts/classify.py`
 
 The emotion_classification_with_distilbert.ipynb notebook can also be used for fine-tuning and classification. The notebook is advantageous for visualization and experimentation, though it does take longer to run. 
 
