@@ -1,4 +1,4 @@
-# Analyzing Emotional Content in Lyrics with DistilBERT Classification
+# Analyzing Emotional Content in Lyrics using DistilBERT
 
 ![Graph visualization of analysis results](analysis_results.png)
 
